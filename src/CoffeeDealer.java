@@ -65,7 +65,7 @@ public class CoffeeDealer {
                     // new Water(ingredients[0].getAmount() - Espresso.neededWater);
                     break;
                 case 2:
-                    System.out.println("2번선택");
+                    System.out.println("라테를 선택");
                 case 3:
                     System.out.println("3번선택");
                 case 4:
